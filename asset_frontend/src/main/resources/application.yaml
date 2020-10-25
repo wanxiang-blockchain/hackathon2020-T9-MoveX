@@ -1,0 +1,5 @@
+server:
+  port: 8070
+logging:
+  file:
+    path: /root/logs/
